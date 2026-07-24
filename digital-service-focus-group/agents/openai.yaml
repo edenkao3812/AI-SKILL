@@ -1,0 +1,4 @@
+interface:
+  display_name: "數位服務焦點小組"
+  short_description: "五階段中文焦點小組，以討論/產出與 KANO 實體圖決策"
+  default_prompt: "Use $digital-service-focus-group to run five structured discussion stages, split every stage into 討論 and 產出, show each role's Kano judgment, calculate rigid and ideal demand coefficients, render a real quadrant image, prioritize functions, choose a fancy name, and save the report as Markdown."
