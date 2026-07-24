@@ -1,0 +1,4 @@
+interface:
+  display_name: "PromptRecommand"
+  short_description: "逐步建立圖片與影片的腳本、分鏡、鏡頭及生成提示詞範本"
+  default_prompt: "Use $prompt-recommand to guide me step by step and create an image or video generation prompt for my goal."
