@@ -1,4 +1,0 @@
-interface:
-  display_name: "數位服務焦點小組"
-  short_description: "五階段中文焦點小組，10+ 功能與內嵌 KANO SVG 決策"
-  default_prompt: "Use $digital-service-focus-group to run five structured discussion stages, split every stage into 討論 and 產出, produce at least 10 observable service functions, show each role's Kano judgment, calculate rigid and ideal demand coefficients, embed a real KANO SVG chart directly inside the Markdown, prioritize functions by quadrant, choose a fancy name, and save the report as Markdown."
