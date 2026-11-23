@@ -1,0 +1,4 @@
+interface:
+  display_name: "數位服務焦點小組"
+  short_description: "四個獨立 AI 角色，五階段焦點小組與 KANO 決策"
+  default_prompt: "Use $digital-service-focus-group to assign four independent AI role agents, validate their KANO judgments, then create a five-stage Chinese digital-service focus-group report with an embedded quadrant SVG and a recommended name."
